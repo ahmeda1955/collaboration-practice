@@ -8,7 +8,7 @@
 #### 8
 #### 9 Github is really awesome.
 #### 10
-#### 11 Ahmed and Meagen are both awesome.
+#### 11 Ahmed and Meagan are both awesome.
 #### 12
 #### 13
 #### 14
