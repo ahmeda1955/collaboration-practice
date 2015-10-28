@@ -6,7 +6,7 @@
 #### 6
 #### 7 My name is still Ahmed. My name didn't change.
 #### 8
-#### 9 Github is really good.
+#### 9 Github is really awesome.
 #### 10
 #### 11
 #### 12
